@@ -17,8 +17,9 @@ A responsive Amazon-inspired e-commerce website built using **HTML** and **CSS**
 * CSS3
 
 ## 📸 Screenshot
-<img width="1346" height="486" alt="amazon-clone2" src="https://github.com/user-attachments/assets/d4bfe2ba-15e5-4a4a-ae60-05a220c15685" />
 <img width="1353" height="683" alt="amazon-clone" src="https://github.com/user-attachments/assets/c8a10782-dc0c-4692-a370-5f78338f52bb" />
+<img width="1346" height="486" alt="amazon-clone2" src="https://github.com/user-attachments/assets/d4bfe2ba-15e5-4a4a-ae60-05a220c15685"/>
+
 
 
 ## 🎯 Purpose
